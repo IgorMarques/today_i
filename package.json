@@ -1,0 +1,26 @@
+{
+  "name": "today-i",
+  "version": "0.0.1",
+  "description": "Companion app for daily meetings",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IgorMarques/today_i.git"
+  },
+  "author": "IgorMarques",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IgorMarques/today_i/issues"
+  },
+  "homepage": "https://github.com/IgorMarques/today_i#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^4.10.0",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.8.0"
+  }
+}
