@@ -25,8 +25,13 @@ $ open index.html
 
 ## Lint the code
 
-With `npm` installed on your machine, just run:
+With `npm` installed on your machine, you'll need to install the dependencies:
 
+```shell
+npm install
+```
+
+And execute the linter:
 ```shell
 npm run lint
 ```
