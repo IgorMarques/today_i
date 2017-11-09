@@ -8,7 +8,7 @@ You can create and toggle tasks that you are working or plan to work on soon.
 
 ## Intro
 
-This app has two major components: 
+This app has two major components:
 - A frontend in pure HTML/CSS/Javascript
 - A [backend app](https://github.com/IgorMarques/today_i_backend) in Ruby on Rails
 
@@ -21,4 +21,17 @@ and then open the this app by opening `index.html` in your browser.
 
 ```shell
 $ open index.html
+```
+
+## Lint the code
+
+With `npm` installed on your machine, you'll need to install the dependencies:
+
+```shell
+npm install
+```
+
+And execute the linter:
+```shell
+npm run lint
 ```
